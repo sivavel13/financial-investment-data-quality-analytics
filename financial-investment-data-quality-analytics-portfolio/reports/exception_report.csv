@@ -1,0 +1,1551 @@
+Dataset,Record_ID,Field,Issue,Severity,Status
+Branch,1008,Firm_Revenue,Missing revenue,High,Review
+Branch,1034,Firm_Revenue,Missing revenue,High,Review
+Branch,1058,Firm_Revenue,Missing revenue,High,Review
+Branch,1069,Firm_Revenue,Missing revenue,High,Review
+Branch,1092,Firm_Revenue,Missing revenue,High,Review
+Branch,1093,Firm_Revenue,Missing revenue,High,Review
+Branch,1105,Firm_Revenue,Missing revenue,High,Review
+Branch,1131,Firm_Revenue,Missing revenue,High,Review
+Branch,1157,Firm_Revenue,Missing revenue,High,Review
+Branch,1176,Firm_Revenue,Missing revenue,High,Review
+Branch,1181,Firm_Revenue,Missing revenue,High,Review
+Branch,1200,Firm_Revenue,Missing revenue,High,Review
+Branch,1209,Firm_Revenue,Missing revenue,High,Review
+Branch,1221,Firm_Revenue,Missing revenue,High,Review
+Branch,1248,Firm_Revenue,Missing revenue,High,Review
+Branch,1285,Firm_Revenue,Missing revenue,High,Review
+Branch,1292,Firm_Revenue,Missing revenue,High,Review
+Branch,1298,Firm_Revenue,Missing revenue,High,Review
+Branch,1344,Firm_Revenue,Missing revenue,High,Review
+Branch,1348,Firm_Revenue,Missing revenue,High,Review
+Branch,1352,Firm_Revenue,Missing revenue,High,Review
+Branch,1402,Firm_Revenue,Missing revenue,High,Review
+Branch,1406,Firm_Revenue,Missing revenue,High,Review
+Branch,1437,Firm_Revenue,Missing revenue,High,Review
+Branch,1514,Firm_Revenue,Missing revenue,High,Review
+Branch,1546,Firm_Revenue,Missing revenue,High,Review
+Branch,1610,Firm_Revenue,Missing revenue,High,Review
+Branch,1646,Firm_Revenue,Missing revenue,High,Review
+Branch,1661,Firm_Revenue,Missing revenue,High,Review
+Branch,1669,Firm_Revenue,Missing revenue,High,Review
+Branch,1706,Firm_Revenue,Missing revenue,High,Review
+Branch,1710,Firm_Revenue,Missing revenue,High,Review
+Branch,1724,Firm_Revenue,Missing revenue,High,Review
+Branch,1734,Firm_Revenue,Missing revenue,High,Review
+Branch,1737,Firm_Revenue,Missing revenue,High,Review
+Branch,1763,Firm_Revenue,Missing revenue,High,Review
+Branch,1781,Firm_Revenue,Missing revenue,High,Review
+Branch,1837,Firm_Revenue,Missing revenue,High,Review
+Branch,1848,Firm_Revenue,Missing revenue,High,Review
+Branch,1885,Firm_Revenue,Missing revenue,High,Review
+Branch,1886,Firm_Revenue,Missing revenue,High,Review
+Branch,1893,Firm_Revenue,Missing revenue,High,Review
+Branch,1900,Firm_Revenue,Missing revenue,High,Review
+Branch,1904,Firm_Revenue,Missing revenue,High,Review
+Branch,1906,Firm_Revenue,Missing revenue,High,Review
+Branch,1913,Firm_Revenue,Missing revenue,High,Review
+Branch,1919,Firm_Revenue,Missing revenue,High,Review
+Branch,1946,Firm_Revenue,Missing revenue,High,Review
+Branch,1954,Firm_Revenue,Missing revenue,High,Review
+Branch,1970,Firm_Revenue,Missing revenue,High,Review
+Customer,200004,Age,Missing age,Medium,Review
+Customer,200057,Age,Missing age,Medium,Review
+Customer,200060,Age,Missing age,Medium,Review
+Customer,200083,Age,Missing age,Medium,Review
+Customer,200086,Age,Missing age,Medium,Review
+Customer,200122,Age,Missing age,Medium,Review
+Customer,200147,Age,Missing age,Medium,Review
+Customer,200162,Age,Missing age,Medium,Review
+Customer,200188,Age,Missing age,Medium,Review
+Customer,200199,Age,Missing age,Medium,Review
+Customer,200223,Age,Missing age,Medium,Review
+Customer,200224,Age,Missing age,Medium,Review
+Customer,200268,Age,Missing age,Medium,Review
+Customer,200288,Age,Missing age,Medium,Review
+Customer,200328,Age,Missing age,Medium,Review
+Customer,200338,Age,Missing age,Medium,Review
+Customer,200374,Age,Missing age,Medium,Review
+Customer,200432,Age,Missing age,Medium,Review
+Customer,200508,Age,Missing age,Medium,Review
+Customer,200530,Age,Missing age,Medium,Review
+Customer,200552,Age,Missing age,Medium,Review
+Customer,200565,Age,Missing age,Medium,Review
+Customer,200566,Age,Missing age,Medium,Review
+Customer,200590,Age,Missing age,Medium,Review
+Customer,200596,Age,Missing age,Medium,Review
+Customer,200605,Age,Missing age,Medium,Review
+Customer,200607,Age,Missing age,Medium,Review
+Customer,200628,Age,Missing age,Medium,Review
+Customer,200662,Age,Missing age,Medium,Review
+Customer,200674,Age,Missing age,Medium,Review
+Customer,200752,Age,Missing age,Medium,Review
+Customer,200794,Age,Missing age,Medium,Review
+Customer,200795,Age,Missing age,Medium,Review
+Customer,200799,Age,Missing age,Medium,Review
+Customer,200831,Age,Missing age,Medium,Review
+Customer,200850,Age,Missing age,Medium,Review
+Customer,200852,Age,Missing age,Medium,Review
+Customer,200858,Age,Missing age,Medium,Review
+Customer,200871,Age,Missing age,Medium,Review
+Customer,200879,Age,Missing age,Medium,Review
+Customer,200927,Age,Missing age,Medium,Review
+Customer,200974,Age,Missing age,Medium,Review
+Customer,200976,Age,Missing age,Medium,Review
+Customer,200983,Age,Missing age,Medium,Review
+Customer,200986,Age,Missing age,Medium,Review
+Customer,201002,Age,Missing age,Medium,Review
+Customer,201003,Age,Missing age,Medium,Review
+Customer,201059,Age,Missing age,Medium,Review
+Customer,201065,Age,Missing age,Medium,Review
+Customer,201101,Age,Missing age,Medium,Review
+Customer,201105,Age,Missing age,Medium,Review
+Customer,201114,Age,Missing age,Medium,Review
+Customer,201149,Age,Missing age,Medium,Review
+Customer,201150,Age,Missing age,Medium,Review
+Customer,201151,Age,Missing age,Medium,Review
+Customer,201163,Age,Missing age,Medium,Review
+Customer,201171,Age,Missing age,Medium,Review
+Customer,201179,Age,Missing age,Medium,Review
+Customer,201196,Age,Missing age,Medium,Review
+Customer,201232,Age,Missing age,Medium,Review
+Customer,201260,Age,Missing age,Medium,Review
+Customer,201267,Age,Missing age,Medium,Review
+Customer,201274,Age,Missing age,Medium,Review
+Customer,201276,Age,Missing age,Medium,Review
+Customer,201309,Age,Missing age,Medium,Review
+Customer,201316,Age,Missing age,Medium,Review
+Customer,201336,Age,Missing age,Medium,Review
+Customer,201355,Age,Missing age,Medium,Review
+Customer,201361,Age,Missing age,Medium,Review
+Customer,201367,Age,Missing age,Medium,Review
+Customer,201373,Age,Missing age,Medium,Review
+Customer,201406,Age,Missing age,Medium,Review
+Customer,201422,Age,Missing age,Medium,Review
+Customer,201438,Age,Missing age,Medium,Review
+Customer,201469,Age,Missing age,Medium,Review
+Customer,201496,Age,Missing age,Medium,Review
+Customer,201527,Age,Missing age,Medium,Review
+Customer,201568,Age,Missing age,Medium,Review
+Customer,201587,Age,Missing age,Medium,Review
+Customer,201592,Age,Missing age,Medium,Review
+Customer,201599,Age,Missing age,Medium,Review
+Customer,201626,Age,Missing age,Medium,Review
+Customer,201642,Age,Missing age,Medium,Review
+Customer,201648,Age,Missing age,Medium,Review
+Customer,201679,Age,Missing age,Medium,Review
+Customer,201694,Age,Missing age,Medium,Review
+Customer,201710,Age,Missing age,Medium,Review
+Customer,201729,Age,Missing age,Medium,Review
+Customer,201815,Age,Missing age,Medium,Review
+Customer,201822,Age,Missing age,Medium,Review
+Customer,201845,Age,Missing age,Medium,Review
+Customer,201902,Age,Missing age,Medium,Review
+Customer,201910,Age,Missing age,Medium,Review
+Customer,201916,Age,Missing age,Medium,Review
+Customer,201917,Age,Missing age,Medium,Review
+Customer,201921,Age,Missing age,Medium,Review
+Customer,201932,Age,Missing age,Medium,Review
+Customer,201970,Age,Missing age,Medium,Review
+Customer,202004,Age,Missing age,Medium,Review
+Customer,202021,Age,Missing age,Medium,Review
+Customer,202042,Age,Missing age,Medium,Review
+Customer,202108,Age,Missing age,Medium,Review
+Customer,202115,Age,Missing age,Medium,Review
+Customer,202116,Age,Missing age,Medium,Review
+Customer,202118,Age,Missing age,Medium,Review
+Customer,202127,Age,Missing age,Medium,Review
+Customer,202148,Age,Missing age,Medium,Review
+Customer,202149,Age,Missing age,Medium,Review
+Customer,202214,Age,Missing age,Medium,Review
+Customer,202219,Age,Missing age,Medium,Review
+Customer,202246,Age,Missing age,Medium,Review
+Customer,202271,Age,Missing age,Medium,Review
+Customer,202273,Age,Missing age,Medium,Review
+Customer,202309,Age,Missing age,Medium,Review
+Customer,202311,Age,Missing age,Medium,Review
+Customer,202318,Age,Missing age,Medium,Review
+Customer,202336,Age,Missing age,Medium,Review
+Customer,202345,Age,Missing age,Medium,Review
+Customer,202349,Age,Missing age,Medium,Review
+Customer,202352,Age,Missing age,Medium,Review
+Customer,202400,Age,Missing age,Medium,Review
+Customer,202408,Age,Missing age,Medium,Review
+Customer,202459,Age,Missing age,Medium,Review
+Customer,202493,Age,Missing age,Medium,Review
+Customer,202508,Age,Missing age,Medium,Review
+Customer,202516,Age,Missing age,Medium,Review
+Customer,202522,Age,Missing age,Medium,Review
+Customer,202525,Age,Missing age,Medium,Review
+Customer,202531,Age,Missing age,Medium,Review
+Customer,202559,Age,Missing age,Medium,Review
+Customer,202596,Age,Missing age,Medium,Review
+Customer,202599,Age,Missing age,Medium,Review
+Customer,202657,Age,Missing age,Medium,Review
+Customer,202667,Age,Missing age,Medium,Review
+Customer,202684,Age,Missing age,Medium,Review
+Customer,202706,Age,Missing age,Medium,Review
+Customer,202734,Age,Missing age,Medium,Review
+Customer,202741,Age,Missing age,Medium,Review
+Customer,202748,Age,Missing age,Medium,Review
+Customer,202780,Age,Missing age,Medium,Review
+Customer,202803,Age,Missing age,Medium,Review
+Customer,202804,Age,Missing age,Medium,Review
+Customer,202810,Age,Missing age,Medium,Review
+Customer,202834,Age,Missing age,Medium,Review
+Customer,202853,Age,Missing age,Medium,Review
+Customer,202855,Age,Missing age,Medium,Review
+Customer,202874,Age,Missing age,Medium,Review
+Customer,202889,Age,Missing age,Medium,Review
+Customer,202895,Age,Missing age,Medium,Review
+Customer,202902,Age,Missing age,Medium,Review
+Customer,202903,Age,Missing age,Medium,Review
+Customer,202914,Age,Missing age,Medium,Review
+Customer,202960,Age,Missing age,Medium,Review
+Customer,202969,Age,Missing age,Medium,Review
+Customer,202979,Age,Missing age,Medium,Review
+Customer,202984,Age,Missing age,Medium,Review
+Customer,203011,Age,Missing age,Medium,Review
+Customer,203019,Age,Missing age,Medium,Review
+Customer,203020,Age,Missing age,Medium,Review
+Customer,203025,Age,Missing age,Medium,Review
+Customer,203052,Age,Missing age,Medium,Review
+Customer,203090,Age,Missing age,Medium,Review
+Customer,203095,Age,Missing age,Medium,Review
+Customer,203136,Age,Missing age,Medium,Review
+Customer,203149,Age,Missing age,Medium,Review
+Customer,203172,Age,Missing age,Medium,Review
+Customer,203191,Age,Missing age,Medium,Review
+Customer,203221,Age,Missing age,Medium,Review
+Customer,203236,Age,Missing age,Medium,Review
+Customer,203267,Age,Missing age,Medium,Review
+Customer,203268,Age,Missing age,Medium,Review
+Customer,203272,Age,Missing age,Medium,Review
+Customer,203314,Age,Missing age,Medium,Review
+Customer,203374,Age,Missing age,Medium,Review
+Customer,203396,Age,Missing age,Medium,Review
+Customer,203444,Age,Missing age,Medium,Review
+Customer,203508,Age,Missing age,Medium,Review
+Customer,203521,Age,Missing age,Medium,Review
+Customer,203523,Age,Missing age,Medium,Review
+Customer,203565,Age,Missing age,Medium,Review
+Customer,203671,Age,Missing age,Medium,Review
+Customer,203717,Age,Missing age,Medium,Review
+Customer,203779,Age,Missing age,Medium,Review
+Customer,203780,Age,Missing age,Medium,Review
+Customer,203874,Age,Missing age,Medium,Review
+Customer,203882,Age,Missing age,Medium,Review
+Customer,203891,Age,Missing age,Medium,Review
+Customer,203907,Age,Missing age,Medium,Review
+Customer,203909,Age,Missing age,Medium,Review
+Customer,203911,Age,Missing age,Medium,Review
+Customer,203918,Age,Missing age,Medium,Review
+Customer,203941,Age,Missing age,Medium,Review
+Customer,203958,Age,Missing age,Medium,Review
+Customer,203976,Age,Missing age,Medium,Review
+Customer,203986,Age,Missing age,Medium,Review
+Customer,203995,Age,Missing age,Medium,Review
+Customer,204015,Age,Missing age,Medium,Review
+Customer,204021,Age,Missing age,Medium,Review
+Customer,204120,Age,Missing age,Medium,Review
+Customer,204162,Age,Missing age,Medium,Review
+Customer,204163,Age,Missing age,Medium,Review
+Customer,204184,Age,Missing age,Medium,Review
+Customer,204200,Age,Missing age,Medium,Review
+Customer,204219,Age,Missing age,Medium,Review
+Customer,204246,Age,Missing age,Medium,Review
+Customer,204248,Age,Missing age,Medium,Review
+Customer,204264,Age,Missing age,Medium,Review
+Customer,204273,Age,Missing age,Medium,Review
+Customer,204292,Age,Missing age,Medium,Review
+Customer,204328,Age,Missing age,Medium,Review
+Customer,204332,Age,Missing age,Medium,Review
+Customer,204340,Age,Missing age,Medium,Review
+Customer,204363,Age,Missing age,Medium,Review
+Customer,204398,Age,Missing age,Medium,Review
+Customer,204407,Age,Missing age,Medium,Review
+Customer,204411,Age,Missing age,Medium,Review
+Customer,204481,Age,Missing age,Medium,Review
+Customer,204488,Age,Missing age,Medium,Review
+Customer,204529,Age,Missing age,Medium,Review
+Customer,204539,Age,Missing age,Medium,Review
+Customer,204585,Age,Missing age,Medium,Review
+Customer,204611,Age,Missing age,Medium,Review
+Customer,204642,Age,Missing age,Medium,Review
+Customer,204669,Age,Missing age,Medium,Review
+Customer,204671,Age,Missing age,Medium,Review
+Customer,204681,Age,Missing age,Medium,Review
+Customer,204685,Age,Missing age,Medium,Review
+Customer,204686,Age,Missing age,Medium,Review
+Customer,204706,Age,Missing age,Medium,Review
+Customer,204716,Age,Missing age,Medium,Review
+Customer,204718,Age,Missing age,Medium,Review
+Customer,204719,Age,Missing age,Medium,Review
+Customer,204732,Age,Missing age,Medium,Review
+Customer,204746,Age,Missing age,Medium,Review
+Customer,204759,Age,Missing age,Medium,Review
+Customer,204765,Age,Missing age,Medium,Review
+Customer,204878,Age,Missing age,Medium,Review
+Customer,204889,Age,Missing age,Medium,Review
+Customer,204894,Age,Missing age,Medium,Review
+Customer,204910,Age,Missing age,Medium,Review
+Customer,204934,Age,Missing age,Medium,Review
+Customer,204938,Age,Missing age,Medium,Review
+Customer,204965,Age,Missing age,Medium,Review
+Customer,204994,Age,Missing age,Medium,Review
+Customer,205042,Age,Missing age,Medium,Review
+Customer,205056,Age,Missing age,Medium,Review
+Customer,205077,Age,Missing age,Medium,Review
+Customer,205084,Age,Missing age,Medium,Review
+Customer,205146,Age,Missing age,Medium,Review
+Customer,205158,Age,Missing age,Medium,Review
+Customer,205186,Age,Missing age,Medium,Review
+Customer,205195,Age,Missing age,Medium,Review
+Customer,205203,Age,Missing age,Medium,Review
+Customer,205233,Age,Missing age,Medium,Review
+Customer,205251,Age,Missing age,Medium,Review
+Customer,205274,Age,Missing age,Medium,Review
+Customer,205276,Age,Missing age,Medium,Review
+Customer,205280,Age,Missing age,Medium,Review
+Customer,205344,Age,Missing age,Medium,Review
+Customer,205348,Age,Missing age,Medium,Review
+Customer,205374,Age,Missing age,Medium,Review
+Customer,205454,Age,Missing age,Medium,Review
+Customer,205460,Age,Missing age,Medium,Review
+Customer,205504,Age,Missing age,Medium,Review
+Customer,205505,Age,Missing age,Medium,Review
+Customer,205512,Age,Missing age,Medium,Review
+Customer,205523,Age,Missing age,Medium,Review
+Customer,205583,Age,Missing age,Medium,Review
+Customer,205599,Age,Missing age,Medium,Review
+Customer,205664,Age,Missing age,Medium,Review
+Customer,205705,Age,Missing age,Medium,Review
+Customer,205709,Age,Missing age,Medium,Review
+Customer,205713,Age,Missing age,Medium,Review
+Customer,205731,Age,Missing age,Medium,Review
+Customer,205740,Age,Missing age,Medium,Review
+Customer,205741,Age,Missing age,Medium,Review
+Customer,205768,Age,Missing age,Medium,Review
+Customer,205769,Age,Missing age,Medium,Review
+Customer,205788,Age,Missing age,Medium,Review
+Customer,205804,Age,Missing age,Medium,Review
+Customer,205805,Age,Missing age,Medium,Review
+Customer,205810,Age,Missing age,Medium,Review
+Customer,205823,Age,Missing age,Medium,Review
+Customer,205824,Age,Missing age,Medium,Review
+Customer,205832,Age,Missing age,Medium,Review
+Customer,205837,Age,Missing age,Medium,Review
+Customer,205865,Age,Missing age,Medium,Review
+Customer,205891,Age,Missing age,Medium,Review
+Customer,205899,Age,Missing age,Medium,Review
+Customer,205931,Age,Missing age,Medium,Review
+Customer,205974,Age,Missing age,Medium,Review
+Customer,205979,Age,Missing age,Medium,Review
+Customer,205987,Age,Missing age,Medium,Review
+Customer,205989,Age,Missing age,Medium,Review
+Customer,205992,Age,Missing age,Medium,Review
+Customer,205993,Age,Missing age,Medium,Review
+Customer,206011,Age,Missing age,Medium,Review
+Customer,206062,Age,Missing age,Medium,Review
+Customer,206063,Age,Missing age,Medium,Review
+Customer,206077,Age,Missing age,Medium,Review
+Customer,206089,Age,Missing age,Medium,Review
+Customer,206090,Age,Missing age,Medium,Review
+Customer,206114,Age,Missing age,Medium,Review
+Customer,206128,Age,Missing age,Medium,Review
+Customer,206157,Age,Missing age,Medium,Review
+Customer,206185,Age,Missing age,Medium,Review
+Customer,206203,Age,Missing age,Medium,Review
+Customer,206223,Age,Missing age,Medium,Review
+Customer,206251,Age,Missing age,Medium,Review
+Customer,206255,Age,Missing age,Medium,Review
+Customer,206281,Age,Missing age,Medium,Review
+Customer,206284,Age,Missing age,Medium,Review
+Customer,206287,Age,Missing age,Medium,Review
+Customer,206294,Age,Missing age,Medium,Review
+Customer,206298,Age,Missing age,Medium,Review
+Customer,206331,Age,Missing age,Medium,Review
+Customer,206347,Age,Missing age,Medium,Review
+Customer,206365,Age,Missing age,Medium,Review
+Customer,206443,Age,Missing age,Medium,Review
+Customer,206491,Age,Missing age,Medium,Review
+Customer,206517,Age,Missing age,Medium,Review
+Customer,206530,Age,Missing age,Medium,Review
+Customer,206532,Age,Missing age,Medium,Review
+Customer,206536,Age,Missing age,Medium,Review
+Customer,206543,Age,Missing age,Medium,Review
+Customer,206553,Age,Missing age,Medium,Review
+Customer,206607,Age,Missing age,Medium,Review
+Customer,206609,Age,Missing age,Medium,Review
+Customer,206613,Age,Missing age,Medium,Review
+Customer,206653,Age,Missing age,Medium,Review
+Customer,206654,Age,Missing age,Medium,Review
+Customer,206668,Age,Missing age,Medium,Review
+Customer,206685,Age,Missing age,Medium,Review
+Customer,206719,Age,Missing age,Medium,Review
+Customer,206723,Age,Missing age,Medium,Review
+Customer,206734,Age,Missing age,Medium,Review
+Customer,206748,Age,Missing age,Medium,Review
+Customer,206764,Age,Missing age,Medium,Review
+Customer,206772,Age,Missing age,Medium,Review
+Customer,206785,Age,Missing age,Medium,Review
+Customer,206806,Age,Missing age,Medium,Review
+Customer,206814,Age,Missing age,Medium,Review
+Customer,206827,Age,Missing age,Medium,Review
+Customer,206832,Age,Missing age,Medium,Review
+Customer,206848,Age,Missing age,Medium,Review
+Customer,206860,Age,Missing age,Medium,Review
+Customer,206876,Age,Missing age,Medium,Review
+Customer,206880,Age,Missing age,Medium,Review
+Customer,206901,Age,Missing age,Medium,Review
+Customer,206926,Age,Missing age,Medium,Review
+Customer,206936,Age,Missing age,Medium,Review
+Customer,206948,Age,Missing age,Medium,Review
+Customer,206959,Age,Missing age,Medium,Review
+Customer,207010,Age,Missing age,Medium,Review
+Customer,207043,Age,Missing age,Medium,Review
+Customer,207055,Age,Missing age,Medium,Review
+Customer,207060,Age,Missing age,Medium,Review
+Customer,207092,Age,Missing age,Medium,Review
+Customer,207095,Age,Missing age,Medium,Review
+Customer,207126,Age,Missing age,Medium,Review
+Customer,207149,Age,Missing age,Medium,Review
+Customer,207151,Age,Missing age,Medium,Review
+Customer,207167,Age,Missing age,Medium,Review
+Customer,207192,Age,Missing age,Medium,Review
+Customer,207240,Age,Missing age,Medium,Review
+Customer,207249,Age,Missing age,Medium,Review
+Customer,207266,Age,Missing age,Medium,Review
+Customer,207340,Age,Missing age,Medium,Review
+Customer,207348,Age,Missing age,Medium,Review
+Customer,207371,Age,Missing age,Medium,Review
+Customer,207389,Age,Missing age,Medium,Review
+Customer,207406,Age,Missing age,Medium,Review
+Customer,207410,Age,Missing age,Medium,Review
+Customer,207416,Age,Missing age,Medium,Review
+Customer,207481,Age,Missing age,Medium,Review
+Customer,207494,Age,Missing age,Medium,Review
+Customer,207497,Age,Missing age,Medium,Review
+Customer,207510,Age,Missing age,Medium,Review
+Customer,207513,Age,Missing age,Medium,Review
+Customer,207532,Age,Missing age,Medium,Review
+Customer,207535,Age,Missing age,Medium,Review
+Customer,207545,Age,Missing age,Medium,Review
+Customer,207568,Age,Missing age,Medium,Review
+Customer,207587,Age,Missing age,Medium,Review
+Customer,207601,Age,Missing age,Medium,Review
+Customer,207651,Age,Missing age,Medium,Review
+Customer,207692,Age,Missing age,Medium,Review
+Customer,207729,Age,Missing age,Medium,Review
+Customer,207755,Age,Missing age,Medium,Review
+Customer,207759,Age,Missing age,Medium,Review
+Customer,207770,Age,Missing age,Medium,Review
+Customer,207771,Age,Missing age,Medium,Review
+Customer,207779,Age,Missing age,Medium,Review
+Customer,207794,Age,Missing age,Medium,Review
+Customer,207816,Age,Missing age,Medium,Review
+Customer,207901,Age,Missing age,Medium,Review
+Customer,207933,Age,Missing age,Medium,Review
+Customer,207979,Age,Missing age,Medium,Review
+Customer,207995,Age,Missing age,Medium,Review
+Customer,208010,Age,Missing age,Medium,Review
+Customer,208047,Age,Missing age,Medium,Review
+Customer,208051,Age,Missing age,Medium,Review
+Customer,208135,Age,Missing age,Medium,Review
+Customer,208139,Age,Missing age,Medium,Review
+Customer,208172,Age,Missing age,Medium,Review
+Customer,208200,Age,Missing age,Medium,Review
+Customer,208251,Age,Missing age,Medium,Review
+Customer,208255,Age,Missing age,Medium,Review
+Customer,208268,Age,Missing age,Medium,Review
+Customer,208280,Age,Missing age,Medium,Review
+Customer,208289,Age,Missing age,Medium,Review
+Customer,208293,Age,Missing age,Medium,Review
+Customer,208298,Age,Missing age,Medium,Review
+Customer,208308,Age,Missing age,Medium,Review
+Customer,208340,Age,Missing age,Medium,Review
+Customer,208342,Age,Missing age,Medium,Review
+Customer,208348,Age,Missing age,Medium,Review
+Customer,208368,Age,Missing age,Medium,Review
+Customer,208378,Age,Missing age,Medium,Review
+Customer,208412,Age,Missing age,Medium,Review
+Customer,208414,Age,Missing age,Medium,Review
+Customer,208451,Age,Missing age,Medium,Review
+Customer,208470,Age,Missing age,Medium,Review
+Customer,208472,Age,Missing age,Medium,Review
+Customer,208491,Age,Missing age,Medium,Review
+Customer,208538,Age,Missing age,Medium,Review
+Customer,208544,Age,Missing age,Medium,Review
+Customer,208546,Age,Missing age,Medium,Review
+Customer,208611,Age,Missing age,Medium,Review
+Customer,208630,Age,Missing age,Medium,Review
+Customer,208656,Age,Missing age,Medium,Review
+Customer,208658,Age,Missing age,Medium,Review
+Customer,208675,Age,Missing age,Medium,Review
+Customer,208688,Age,Missing age,Medium,Review
+Customer,208697,Age,Missing age,Medium,Review
+Customer,208717,Age,Missing age,Medium,Review
+Customer,208727,Age,Missing age,Medium,Review
+Customer,208749,Age,Missing age,Medium,Review
+Customer,208756,Age,Missing age,Medium,Review
+Customer,208783,Age,Missing age,Medium,Review
+Customer,208785,Age,Missing age,Medium,Review
+Customer,208788,Age,Missing age,Medium,Review
+Customer,208791,Age,Missing age,Medium,Review
+Customer,208817,Age,Missing age,Medium,Review
+Customer,208825,Age,Missing age,Medium,Review
+Customer,208841,Age,Missing age,Medium,Review
+Customer,208857,Age,Missing age,Medium,Review
+Customer,208923,Age,Missing age,Medium,Review
+Customer,208941,Age,Missing age,Medium,Review
+Customer,208953,Age,Missing age,Medium,Review
+Customer,208954,Age,Missing age,Medium,Review
+Customer,209005,Age,Missing age,Medium,Review
+Customer,209028,Age,Missing age,Medium,Review
+Customer,209082,Age,Missing age,Medium,Review
+Customer,209125,Age,Missing age,Medium,Review
+Customer,209168,Age,Missing age,Medium,Review
+Customer,209183,Age,Missing age,Medium,Review
+Customer,209195,Age,Missing age,Medium,Review
+Customer,209204,Age,Missing age,Medium,Review
+Customer,209257,Age,Missing age,Medium,Review
+Customer,209266,Age,Missing age,Medium,Review
+Customer,209273,Age,Missing age,Medium,Review
+Customer,209286,Age,Missing age,Medium,Review
+Customer,209299,Age,Missing age,Medium,Review
+Customer,209309,Age,Missing age,Medium,Review
+Customer,209327,Age,Missing age,Medium,Review
+Customer,209330,Age,Missing age,Medium,Review
+Customer,209351,Age,Missing age,Medium,Review
+Customer,209370,Age,Missing age,Medium,Review
+Customer,209388,Age,Missing age,Medium,Review
+Customer,209393,Age,Missing age,Medium,Review
+Customer,209433,Age,Missing age,Medium,Review
+Customer,209445,Age,Missing age,Medium,Review
+Customer,209449,Age,Missing age,Medium,Review
+Customer,209463,Age,Missing age,Medium,Review
+Customer,209488,Age,Missing age,Medium,Review
+Customer,209500,Age,Missing age,Medium,Review
+Customer,209512,Age,Missing age,Medium,Review
+Customer,209559,Age,Missing age,Medium,Review
+Customer,209566,Age,Missing age,Medium,Review
+Customer,209611,Age,Missing age,Medium,Review
+Customer,209624,Age,Missing age,Medium,Review
+Customer,209680,Age,Missing age,Medium,Review
+Customer,209696,Age,Missing age,Medium,Review
+Customer,209753,Age,Missing age,Medium,Review
+Customer,209793,Age,Missing age,Medium,Review
+Customer,209797,Age,Missing age,Medium,Review
+Customer,209815,Age,Missing age,Medium,Review
+Customer,209827,Age,Missing age,Medium,Review
+Customer,209828,Age,Missing age,Medium,Review
+Customer,209839,Age,Missing age,Medium,Review
+Customer,209853,Age,Missing age,Medium,Review
+Customer,209875,Age,Missing age,Medium,Review
+Customer,209907,Age,Missing age,Medium,Review
+Customer,209929,Age,Missing age,Medium,Review
+Customer,209935,Age,Missing age,Medium,Review
+Customer,209936,Age,Missing age,Medium,Review
+Customer,209960,Age,Missing age,Medium,Review
+Customer,209970,Age,Missing age,Medium,Review
+Customer,209974,Age,Missing age,Medium,Review
+Customer,200001,Customer_Type,Missing customer type,Medium,Review
+Customer,200028,Customer_Type,Missing customer type,Medium,Review
+Customer,200075,Customer_Type,Missing customer type,Medium,Review
+Customer,200090,Customer_Type,Missing customer type,Medium,Review
+Customer,200105,Customer_Type,Missing customer type,Medium,Review
+Customer,200108,Customer_Type,Missing customer type,Medium,Review
+Customer,200172,Customer_Type,Missing customer type,Medium,Review
+Customer,200181,Customer_Type,Missing customer type,Medium,Review
+Customer,200197,Customer_Type,Missing customer type,Medium,Review
+Customer,200251,Customer_Type,Missing customer type,Medium,Review
+Customer,200253,Customer_Type,Missing customer type,Medium,Review
+Customer,200256,Customer_Type,Missing customer type,Medium,Review
+Customer,200261,Customer_Type,Missing customer type,Medium,Review
+Customer,200273,Customer_Type,Missing customer type,Medium,Review
+Customer,200277,Customer_Type,Missing customer type,Medium,Review
+Customer,200280,Customer_Type,Missing customer type,Medium,Review
+Customer,200298,Customer_Type,Missing customer type,Medium,Review
+Customer,200322,Customer_Type,Missing customer type,Medium,Review
+Customer,200372,Customer_Type,Missing customer type,Medium,Review
+Customer,200374,Customer_Type,Missing customer type,Medium,Review
+Customer,200419,Customer_Type,Missing customer type,Medium,Review
+Customer,200428,Customer_Type,Missing customer type,Medium,Review
+Customer,200438,Customer_Type,Missing customer type,Medium,Review
+Customer,200450,Customer_Type,Missing customer type,Medium,Review
+Customer,200463,Customer_Type,Missing customer type,Medium,Review
+Customer,200467,Customer_Type,Missing customer type,Medium,Review
+Customer,200484,Customer_Type,Missing customer type,Medium,Review
+Customer,200486,Customer_Type,Missing customer type,Medium,Review
+Customer,200516,Customer_Type,Missing customer type,Medium,Review
+Customer,200536,Customer_Type,Missing customer type,Medium,Review
+Customer,200557,Customer_Type,Missing customer type,Medium,Review
+Customer,200572,Customer_Type,Missing customer type,Medium,Review
+Customer,200576,Customer_Type,Missing customer type,Medium,Review
+Customer,200582,Customer_Type,Missing customer type,Medium,Review
+Customer,200614,Customer_Type,Missing customer type,Medium,Review
+Customer,200663,Customer_Type,Missing customer type,Medium,Review
+Customer,200719,Customer_Type,Missing customer type,Medium,Review
+Customer,200746,Customer_Type,Missing customer type,Medium,Review
+Customer,200777,Customer_Type,Missing customer type,Medium,Review
+Customer,200848,Customer_Type,Missing customer type,Medium,Review
+Customer,200855,Customer_Type,Missing customer type,Medium,Review
+Customer,200856,Customer_Type,Missing customer type,Medium,Review
+Customer,200865,Customer_Type,Missing customer type,Medium,Review
+Customer,200869,Customer_Type,Missing customer type,Medium,Review
+Customer,200881,Customer_Type,Missing customer type,Medium,Review
+Customer,200902,Customer_Type,Missing customer type,Medium,Review
+Customer,200919,Customer_Type,Missing customer type,Medium,Review
+Customer,200920,Customer_Type,Missing customer type,Medium,Review
+Customer,200928,Customer_Type,Missing customer type,Medium,Review
+Customer,200929,Customer_Type,Missing customer type,Medium,Review
+Customer,200936,Customer_Type,Missing customer type,Medium,Review
+Customer,200937,Customer_Type,Missing customer type,Medium,Review
+Customer,200942,Customer_Type,Missing customer type,Medium,Review
+Customer,201002,Customer_Type,Missing customer type,Medium,Review
+Customer,201018,Customer_Type,Missing customer type,Medium,Review
+Customer,201029,Customer_Type,Missing customer type,Medium,Review
+Customer,201035,Customer_Type,Missing customer type,Medium,Review
+Customer,201057,Customer_Type,Missing customer type,Medium,Review
+Customer,201155,Customer_Type,Missing customer type,Medium,Review
+Customer,201165,Customer_Type,Missing customer type,Medium,Review
+Customer,201195,Customer_Type,Missing customer type,Medium,Review
+Customer,201201,Customer_Type,Missing customer type,Medium,Review
+Customer,201213,Customer_Type,Missing customer type,Medium,Review
+Customer,201236,Customer_Type,Missing customer type,Medium,Review
+Customer,201291,Customer_Type,Missing customer type,Medium,Review
+Customer,201371,Customer_Type,Missing customer type,Medium,Review
+Customer,201398,Customer_Type,Missing customer type,Medium,Review
+Customer,201404,Customer_Type,Missing customer type,Medium,Review
+Customer,201430,Customer_Type,Missing customer type,Medium,Review
+Customer,201439,Customer_Type,Missing customer type,Medium,Review
+Customer,201522,Customer_Type,Missing customer type,Medium,Review
+Customer,201527,Customer_Type,Missing customer type,Medium,Review
+Customer,201573,Customer_Type,Missing customer type,Medium,Review
+Customer,201584,Customer_Type,Missing customer type,Medium,Review
+Customer,201589,Customer_Type,Missing customer type,Medium,Review
+Customer,201611,Customer_Type,Missing customer type,Medium,Review
+Customer,201641,Customer_Type,Missing customer type,Medium,Review
+Customer,201663,Customer_Type,Missing customer type,Medium,Review
+Customer,201704,Customer_Type,Missing customer type,Medium,Review
+Customer,201736,Customer_Type,Missing customer type,Medium,Review
+Customer,201764,Customer_Type,Missing customer type,Medium,Review
+Customer,201806,Customer_Type,Missing customer type,Medium,Review
+Customer,201808,Customer_Type,Missing customer type,Medium,Review
+Customer,201814,Customer_Type,Missing customer type,Medium,Review
+Customer,201833,Customer_Type,Missing customer type,Medium,Review
+Customer,201839,Customer_Type,Missing customer type,Medium,Review
+Customer,201845,Customer_Type,Missing customer type,Medium,Review
+Customer,201862,Customer_Type,Missing customer type,Medium,Review
+Customer,201870,Customer_Type,Missing customer type,Medium,Review
+Customer,201921,Customer_Type,Missing customer type,Medium,Review
+Customer,201935,Customer_Type,Missing customer type,Medium,Review
+Customer,202028,Customer_Type,Missing customer type,Medium,Review
+Customer,202029,Customer_Type,Missing customer type,Medium,Review
+Customer,202043,Customer_Type,Missing customer type,Medium,Review
+Customer,202079,Customer_Type,Missing customer type,Medium,Review
+Customer,202095,Customer_Type,Missing customer type,Medium,Review
+Customer,202101,Customer_Type,Missing customer type,Medium,Review
+Customer,202129,Customer_Type,Missing customer type,Medium,Review
+Customer,202140,Customer_Type,Missing customer type,Medium,Review
+Customer,202151,Customer_Type,Missing customer type,Medium,Review
+Customer,202152,Customer_Type,Missing customer type,Medium,Review
+Customer,202168,Customer_Type,Missing customer type,Medium,Review
+Customer,202210,Customer_Type,Missing customer type,Medium,Review
+Customer,202225,Customer_Type,Missing customer type,Medium,Review
+Customer,202227,Customer_Type,Missing customer type,Medium,Review
+Customer,202255,Customer_Type,Missing customer type,Medium,Review
+Customer,202285,Customer_Type,Missing customer type,Medium,Review
+Customer,202321,Customer_Type,Missing customer type,Medium,Review
+Customer,202338,Customer_Type,Missing customer type,Medium,Review
+Customer,202341,Customer_Type,Missing customer type,Medium,Review
+Customer,202353,Customer_Type,Missing customer type,Medium,Review
+Customer,202409,Customer_Type,Missing customer type,Medium,Review
+Customer,202410,Customer_Type,Missing customer type,Medium,Review
+Customer,202438,Customer_Type,Missing customer type,Medium,Review
+Customer,202467,Customer_Type,Missing customer type,Medium,Review
+Customer,202468,Customer_Type,Missing customer type,Medium,Review
+Customer,202518,Customer_Type,Missing customer type,Medium,Review
+Customer,202527,Customer_Type,Missing customer type,Medium,Review
+Customer,202544,Customer_Type,Missing customer type,Medium,Review
+Customer,202550,Customer_Type,Missing customer type,Medium,Review
+Customer,202602,Customer_Type,Missing customer type,Medium,Review
+Customer,202625,Customer_Type,Missing customer type,Medium,Review
+Customer,202634,Customer_Type,Missing customer type,Medium,Review
+Customer,202652,Customer_Type,Missing customer type,Medium,Review
+Customer,202696,Customer_Type,Missing customer type,Medium,Review
+Customer,202715,Customer_Type,Missing customer type,Medium,Review
+Customer,202719,Customer_Type,Missing customer type,Medium,Review
+Customer,202747,Customer_Type,Missing customer type,Medium,Review
+Customer,202756,Customer_Type,Missing customer type,Medium,Review
+Customer,202758,Customer_Type,Missing customer type,Medium,Review
+Customer,202773,Customer_Type,Missing customer type,Medium,Review
+Customer,202787,Customer_Type,Missing customer type,Medium,Review
+Customer,202794,Customer_Type,Missing customer type,Medium,Review
+Customer,202795,Customer_Type,Missing customer type,Medium,Review
+Customer,202798,Customer_Type,Missing customer type,Medium,Review
+Customer,202819,Customer_Type,Missing customer type,Medium,Review
+Customer,202859,Customer_Type,Missing customer type,Medium,Review
+Customer,202890,Customer_Type,Missing customer type,Medium,Review
+Customer,202904,Customer_Type,Missing customer type,Medium,Review
+Customer,202949,Customer_Type,Missing customer type,Medium,Review
+Customer,202990,Customer_Type,Missing customer type,Medium,Review
+Customer,203005,Customer_Type,Missing customer type,Medium,Review
+Customer,203006,Customer_Type,Missing customer type,Medium,Review
+Customer,203008,Customer_Type,Missing customer type,Medium,Review
+Customer,203026,Customer_Type,Missing customer type,Medium,Review
+Customer,203028,Customer_Type,Missing customer type,Medium,Review
+Customer,203045,Customer_Type,Missing customer type,Medium,Review
+Customer,203056,Customer_Type,Missing customer type,Medium,Review
+Customer,203068,Customer_Type,Missing customer type,Medium,Review
+Customer,203083,Customer_Type,Missing customer type,Medium,Review
+Customer,203121,Customer_Type,Missing customer type,Medium,Review
+Customer,203164,Customer_Type,Missing customer type,Medium,Review
+Customer,203202,Customer_Type,Missing customer type,Medium,Review
+Customer,203242,Customer_Type,Missing customer type,Medium,Review
+Customer,203247,Customer_Type,Missing customer type,Medium,Review
+Customer,203270,Customer_Type,Missing customer type,Medium,Review
+Customer,203272,Customer_Type,Missing customer type,Medium,Review
+Customer,203329,Customer_Type,Missing customer type,Medium,Review
+Customer,203330,Customer_Type,Missing customer type,Medium,Review
+Customer,203385,Customer_Type,Missing customer type,Medium,Review
+Customer,203407,Customer_Type,Missing customer type,Medium,Review
+Customer,203416,Customer_Type,Missing customer type,Medium,Review
+Customer,203425,Customer_Type,Missing customer type,Medium,Review
+Customer,203470,Customer_Type,Missing customer type,Medium,Review
+Customer,203475,Customer_Type,Missing customer type,Medium,Review
+Customer,203476,Customer_Type,Missing customer type,Medium,Review
+Customer,203497,Customer_Type,Missing customer type,Medium,Review
+Customer,203522,Customer_Type,Missing customer type,Medium,Review
+Customer,203528,Customer_Type,Missing customer type,Medium,Review
+Customer,203544,Customer_Type,Missing customer type,Medium,Review
+Customer,203547,Customer_Type,Missing customer type,Medium,Review
+Customer,203563,Customer_Type,Missing customer type,Medium,Review
+Customer,203626,Customer_Type,Missing customer type,Medium,Review
+Customer,203665,Customer_Type,Missing customer type,Medium,Review
+Customer,203690,Customer_Type,Missing customer type,Medium,Review
+Customer,203706,Customer_Type,Missing customer type,Medium,Review
+Customer,203714,Customer_Type,Missing customer type,Medium,Review
+Customer,203733,Customer_Type,Missing customer type,Medium,Review
+Customer,203755,Customer_Type,Missing customer type,Medium,Review
+Customer,203770,Customer_Type,Missing customer type,Medium,Review
+Customer,203799,Customer_Type,Missing customer type,Medium,Review
+Customer,203806,Customer_Type,Missing customer type,Medium,Review
+Customer,203837,Customer_Type,Missing customer type,Medium,Review
+Customer,203844,Customer_Type,Missing customer type,Medium,Review
+Customer,203854,Customer_Type,Missing customer type,Medium,Review
+Customer,203921,Customer_Type,Missing customer type,Medium,Review
+Customer,203939,Customer_Type,Missing customer type,Medium,Review
+Customer,203966,Customer_Type,Missing customer type,Medium,Review
+Customer,203977,Customer_Type,Missing customer type,Medium,Review
+Customer,204019,Customer_Type,Missing customer type,Medium,Review
+Customer,204057,Customer_Type,Missing customer type,Medium,Review
+Customer,204060,Customer_Type,Missing customer type,Medium,Review
+Customer,204061,Customer_Type,Missing customer type,Medium,Review
+Customer,204087,Customer_Type,Missing customer type,Medium,Review
+Customer,204095,Customer_Type,Missing customer type,Medium,Review
+Customer,204122,Customer_Type,Missing customer type,Medium,Review
+Customer,204125,Customer_Type,Missing customer type,Medium,Review
+Customer,204143,Customer_Type,Missing customer type,Medium,Review
+Customer,204161,Customer_Type,Missing customer type,Medium,Review
+Customer,204163,Customer_Type,Missing customer type,Medium,Review
+Customer,204167,Customer_Type,Missing customer type,Medium,Review
+Customer,204184,Customer_Type,Missing customer type,Medium,Review
+Customer,204223,Customer_Type,Missing customer type,Medium,Review
+Customer,204231,Customer_Type,Missing customer type,Medium,Review
+Customer,204298,Customer_Type,Missing customer type,Medium,Review
+Customer,204385,Customer_Type,Missing customer type,Medium,Review
+Customer,204402,Customer_Type,Missing customer type,Medium,Review
+Customer,204443,Customer_Type,Missing customer type,Medium,Review
+Customer,204451,Customer_Type,Missing customer type,Medium,Review
+Customer,204485,Customer_Type,Missing customer type,Medium,Review
+Customer,204522,Customer_Type,Missing customer type,Medium,Review
+Customer,204527,Customer_Type,Missing customer type,Medium,Review
+Customer,204553,Customer_Type,Missing customer type,Medium,Review
+Customer,204562,Customer_Type,Missing customer type,Medium,Review
+Customer,204605,Customer_Type,Missing customer type,Medium,Review
+Customer,204624,Customer_Type,Missing customer type,Medium,Review
+Customer,204627,Customer_Type,Missing customer type,Medium,Review
+Customer,204666,Customer_Type,Missing customer type,Medium,Review
+Customer,204684,Customer_Type,Missing customer type,Medium,Review
+Customer,204725,Customer_Type,Missing customer type,Medium,Review
+Customer,204757,Customer_Type,Missing customer type,Medium,Review
+Customer,204789,Customer_Type,Missing customer type,Medium,Review
+Customer,204799,Customer_Type,Missing customer type,Medium,Review
+Customer,204803,Customer_Type,Missing customer type,Medium,Review
+Customer,204844,Customer_Type,Missing customer type,Medium,Review
+Customer,204854,Customer_Type,Missing customer type,Medium,Review
+Customer,204860,Customer_Type,Missing customer type,Medium,Review
+Customer,204888,Customer_Type,Missing customer type,Medium,Review
+Customer,204905,Customer_Type,Missing customer type,Medium,Review
+Customer,204920,Customer_Type,Missing customer type,Medium,Review
+Customer,204948,Customer_Type,Missing customer type,Medium,Review
+Customer,204989,Customer_Type,Missing customer type,Medium,Review
+Customer,205001,Customer_Type,Missing customer type,Medium,Review
+Customer,205006,Customer_Type,Missing customer type,Medium,Review
+Customer,205008,Customer_Type,Missing customer type,Medium,Review
+Customer,205010,Customer_Type,Missing customer type,Medium,Review
+Customer,205061,Customer_Type,Missing customer type,Medium,Review
+Customer,205087,Customer_Type,Missing customer type,Medium,Review
+Customer,205125,Customer_Type,Missing customer type,Medium,Review
+Customer,205173,Customer_Type,Missing customer type,Medium,Review
+Customer,205230,Customer_Type,Missing customer type,Medium,Review
+Customer,205270,Customer_Type,Missing customer type,Medium,Review
+Customer,205307,Customer_Type,Missing customer type,Medium,Review
+Customer,205313,Customer_Type,Missing customer type,Medium,Review
+Customer,205387,Customer_Type,Missing customer type,Medium,Review
+Customer,205391,Customer_Type,Missing customer type,Medium,Review
+Customer,205405,Customer_Type,Missing customer type,Medium,Review
+Customer,205406,Customer_Type,Missing customer type,Medium,Review
+Customer,205416,Customer_Type,Missing customer type,Medium,Review
+Customer,205422,Customer_Type,Missing customer type,Medium,Review
+Customer,205425,Customer_Type,Missing customer type,Medium,Review
+Customer,205433,Customer_Type,Missing customer type,Medium,Review
+Customer,205445,Customer_Type,Missing customer type,Medium,Review
+Customer,205469,Customer_Type,Missing customer type,Medium,Review
+Customer,205474,Customer_Type,Missing customer type,Medium,Review
+Customer,205567,Customer_Type,Missing customer type,Medium,Review
+Customer,205568,Customer_Type,Missing customer type,Medium,Review
+Customer,205576,Customer_Type,Missing customer type,Medium,Review
+Customer,205631,Customer_Type,Missing customer type,Medium,Review
+Customer,205640,Customer_Type,Missing customer type,Medium,Review
+Customer,205641,Customer_Type,Missing customer type,Medium,Review
+Customer,205662,Customer_Type,Missing customer type,Medium,Review
+Customer,205668,Customer_Type,Missing customer type,Medium,Review
+Customer,205671,Customer_Type,Missing customer type,Medium,Review
+Customer,205675,Customer_Type,Missing customer type,Medium,Review
+Customer,205696,Customer_Type,Missing customer type,Medium,Review
+Customer,205703,Customer_Type,Missing customer type,Medium,Review
+Customer,205724,Customer_Type,Missing customer type,Medium,Review
+Customer,205733,Customer_Type,Missing customer type,Medium,Review
+Customer,205743,Customer_Type,Missing customer type,Medium,Review
+Customer,205763,Customer_Type,Missing customer type,Medium,Review
+Customer,205768,Customer_Type,Missing customer type,Medium,Review
+Customer,205769,Customer_Type,Missing customer type,Medium,Review
+Customer,205778,Customer_Type,Missing customer type,Medium,Review
+Customer,205779,Customer_Type,Missing customer type,Medium,Review
+Customer,205789,Customer_Type,Missing customer type,Medium,Review
+Customer,205795,Customer_Type,Missing customer type,Medium,Review
+Customer,205818,Customer_Type,Missing customer type,Medium,Review
+Customer,205820,Customer_Type,Missing customer type,Medium,Review
+Customer,205822,Customer_Type,Missing customer type,Medium,Review
+Customer,205859,Customer_Type,Missing customer type,Medium,Review
+Customer,205953,Customer_Type,Missing customer type,Medium,Review
+Customer,205977,Customer_Type,Missing customer type,Medium,Review
+Customer,205999,Customer_Type,Missing customer type,Medium,Review
+Customer,206001,Customer_Type,Missing customer type,Medium,Review
+Customer,206007,Customer_Type,Missing customer type,Medium,Review
+Customer,206009,Customer_Type,Missing customer type,Medium,Review
+Customer,206014,Customer_Type,Missing customer type,Medium,Review
+Customer,206018,Customer_Type,Missing customer type,Medium,Review
+Customer,206022,Customer_Type,Missing customer type,Medium,Review
+Customer,206030,Customer_Type,Missing customer type,Medium,Review
+Customer,206052,Customer_Type,Missing customer type,Medium,Review
+Customer,206062,Customer_Type,Missing customer type,Medium,Review
+Customer,206068,Customer_Type,Missing customer type,Medium,Review
+Customer,206087,Customer_Type,Missing customer type,Medium,Review
+Customer,206123,Customer_Type,Missing customer type,Medium,Review
+Customer,206134,Customer_Type,Missing customer type,Medium,Review
+Customer,206149,Customer_Type,Missing customer type,Medium,Review
+Customer,206165,Customer_Type,Missing customer type,Medium,Review
+Customer,206171,Customer_Type,Missing customer type,Medium,Review
+Customer,206204,Customer_Type,Missing customer type,Medium,Review
+Customer,206205,Customer_Type,Missing customer type,Medium,Review
+Customer,206217,Customer_Type,Missing customer type,Medium,Review
+Customer,206223,Customer_Type,Missing customer type,Medium,Review
+Customer,206261,Customer_Type,Missing customer type,Medium,Review
+Customer,206271,Customer_Type,Missing customer type,Medium,Review
+Customer,206316,Customer_Type,Missing customer type,Medium,Review
+Customer,206412,Customer_Type,Missing customer type,Medium,Review
+Customer,206427,Customer_Type,Missing customer type,Medium,Review
+Customer,206433,Customer_Type,Missing customer type,Medium,Review
+Customer,206435,Customer_Type,Missing customer type,Medium,Review
+Customer,206466,Customer_Type,Missing customer type,Medium,Review
+Customer,206474,Customer_Type,Missing customer type,Medium,Review
+Customer,206485,Customer_Type,Missing customer type,Medium,Review
+Customer,206493,Customer_Type,Missing customer type,Medium,Review
+Customer,206506,Customer_Type,Missing customer type,Medium,Review
+Customer,206545,Customer_Type,Missing customer type,Medium,Review
+Customer,206573,Customer_Type,Missing customer type,Medium,Review
+Customer,206618,Customer_Type,Missing customer type,Medium,Review
+Customer,206654,Customer_Type,Missing customer type,Medium,Review
+Customer,206670,Customer_Type,Missing customer type,Medium,Review
+Customer,206680,Customer_Type,Missing customer type,Medium,Review
+Customer,206722,Customer_Type,Missing customer type,Medium,Review
+Customer,206738,Customer_Type,Missing customer type,Medium,Review
+Customer,206755,Customer_Type,Missing customer type,Medium,Review
+Customer,206758,Customer_Type,Missing customer type,Medium,Review
+Customer,206776,Customer_Type,Missing customer type,Medium,Review
+Customer,206806,Customer_Type,Missing customer type,Medium,Review
+Customer,206841,Customer_Type,Missing customer type,Medium,Review
+Customer,206849,Customer_Type,Missing customer type,Medium,Review
+Customer,206871,Customer_Type,Missing customer type,Medium,Review
+Customer,206884,Customer_Type,Missing customer type,Medium,Review
+Customer,206930,Customer_Type,Missing customer type,Medium,Review
+Customer,206944,Customer_Type,Missing customer type,Medium,Review
+Customer,206968,Customer_Type,Missing customer type,Medium,Review
+Customer,207010,Customer_Type,Missing customer type,Medium,Review
+Customer,207017,Customer_Type,Missing customer type,Medium,Review
+Customer,207025,Customer_Type,Missing customer type,Medium,Review
+Customer,207027,Customer_Type,Missing customer type,Medium,Review
+Customer,207033,Customer_Type,Missing customer type,Medium,Review
+Customer,207077,Customer_Type,Missing customer type,Medium,Review
+Customer,207111,Customer_Type,Missing customer type,Medium,Review
+Customer,207156,Customer_Type,Missing customer type,Medium,Review
+Customer,207192,Customer_Type,Missing customer type,Medium,Review
+Customer,207205,Customer_Type,Missing customer type,Medium,Review
+Customer,207235,Customer_Type,Missing customer type,Medium,Review
+Customer,207282,Customer_Type,Missing customer type,Medium,Review
+Customer,207287,Customer_Type,Missing customer type,Medium,Review
+Customer,207291,Customer_Type,Missing customer type,Medium,Review
+Customer,207295,Customer_Type,Missing customer type,Medium,Review
+Customer,207304,Customer_Type,Missing customer type,Medium,Review
+Customer,207315,Customer_Type,Missing customer type,Medium,Review
+Customer,207317,Customer_Type,Missing customer type,Medium,Review
+Customer,207327,Customer_Type,Missing customer type,Medium,Review
+Customer,207353,Customer_Type,Missing customer type,Medium,Review
+Customer,207359,Customer_Type,Missing customer type,Medium,Review
+Customer,207407,Customer_Type,Missing customer type,Medium,Review
+Customer,207441,Customer_Type,Missing customer type,Medium,Review
+Customer,207447,Customer_Type,Missing customer type,Medium,Review
+Customer,207455,Customer_Type,Missing customer type,Medium,Review
+Customer,207469,Customer_Type,Missing customer type,Medium,Review
+Customer,207472,Customer_Type,Missing customer type,Medium,Review
+Customer,207483,Customer_Type,Missing customer type,Medium,Review
+Customer,207484,Customer_Type,Missing customer type,Medium,Review
+Customer,207486,Customer_Type,Missing customer type,Medium,Review
+Customer,207490,Customer_Type,Missing customer type,Medium,Review
+Customer,207498,Customer_Type,Missing customer type,Medium,Review
+Customer,207535,Customer_Type,Missing customer type,Medium,Review
+Customer,207566,Customer_Type,Missing customer type,Medium,Review
+Customer,207592,Customer_Type,Missing customer type,Medium,Review
+Customer,207610,Customer_Type,Missing customer type,Medium,Review
+Customer,207617,Customer_Type,Missing customer type,Medium,Review
+Customer,207637,Customer_Type,Missing customer type,Medium,Review
+Customer,207651,Customer_Type,Missing customer type,Medium,Review
+Customer,207658,Customer_Type,Missing customer type,Medium,Review
+Customer,207661,Customer_Type,Missing customer type,Medium,Review
+Customer,207688,Customer_Type,Missing customer type,Medium,Review
+Customer,207767,Customer_Type,Missing customer type,Medium,Review
+Customer,207768,Customer_Type,Missing customer type,Medium,Review
+Customer,207776,Customer_Type,Missing customer type,Medium,Review
+Customer,207783,Customer_Type,Missing customer type,Medium,Review
+Customer,207786,Customer_Type,Missing customer type,Medium,Review
+Customer,207803,Customer_Type,Missing customer type,Medium,Review
+Customer,207809,Customer_Type,Missing customer type,Medium,Review
+Customer,207810,Customer_Type,Missing customer type,Medium,Review
+Customer,207850,Customer_Type,Missing customer type,Medium,Review
+Customer,207852,Customer_Type,Missing customer type,Medium,Review
+Customer,207875,Customer_Type,Missing customer type,Medium,Review
+Customer,207893,Customer_Type,Missing customer type,Medium,Review
+Customer,207921,Customer_Type,Missing customer type,Medium,Review
+Customer,207941,Customer_Type,Missing customer type,Medium,Review
+Customer,207942,Customer_Type,Missing customer type,Medium,Review
+Customer,207961,Customer_Type,Missing customer type,Medium,Review
+Customer,208025,Customer_Type,Missing customer type,Medium,Review
+Customer,208038,Customer_Type,Missing customer type,Medium,Review
+Customer,208102,Customer_Type,Missing customer type,Medium,Review
+Customer,208110,Customer_Type,Missing customer type,Medium,Review
+Customer,208118,Customer_Type,Missing customer type,Medium,Review
+Customer,208143,Customer_Type,Missing customer type,Medium,Review
+Customer,208180,Customer_Type,Missing customer type,Medium,Review
+Customer,208187,Customer_Type,Missing customer type,Medium,Review
+Customer,208191,Customer_Type,Missing customer type,Medium,Review
+Customer,208266,Customer_Type,Missing customer type,Medium,Review
+Customer,208321,Customer_Type,Missing customer type,Medium,Review
+Customer,208344,Customer_Type,Missing customer type,Medium,Review
+Customer,208359,Customer_Type,Missing customer type,Medium,Review
+Customer,208373,Customer_Type,Missing customer type,Medium,Review
+Customer,208395,Customer_Type,Missing customer type,Medium,Review
+Customer,208400,Customer_Type,Missing customer type,Medium,Review
+Customer,208427,Customer_Type,Missing customer type,Medium,Review
+Customer,208432,Customer_Type,Missing customer type,Medium,Review
+Customer,208443,Customer_Type,Missing customer type,Medium,Review
+Customer,208519,Customer_Type,Missing customer type,Medium,Review
+Customer,208543,Customer_Type,Missing customer type,Medium,Review
+Customer,208551,Customer_Type,Missing customer type,Medium,Review
+Customer,208568,Customer_Type,Missing customer type,Medium,Review
+Customer,208578,Customer_Type,Missing customer type,Medium,Review
+Customer,208588,Customer_Type,Missing customer type,Medium,Review
+Customer,208613,Customer_Type,Missing customer type,Medium,Review
+Customer,208617,Customer_Type,Missing customer type,Medium,Review
+Customer,208634,Customer_Type,Missing customer type,Medium,Review
+Customer,208649,Customer_Type,Missing customer type,Medium,Review
+Customer,208663,Customer_Type,Missing customer type,Medium,Review
+Customer,208675,Customer_Type,Missing customer type,Medium,Review
+Customer,208676,Customer_Type,Missing customer type,Medium,Review
+Customer,208677,Customer_Type,Missing customer type,Medium,Review
+Customer,208710,Customer_Type,Missing customer type,Medium,Review
+Customer,208736,Customer_Type,Missing customer type,Medium,Review
+Customer,208748,Customer_Type,Missing customer type,Medium,Review
+Customer,208750,Customer_Type,Missing customer type,Medium,Review
+Customer,208764,Customer_Type,Missing customer type,Medium,Review
+Customer,208769,Customer_Type,Missing customer type,Medium,Review
+Customer,208779,Customer_Type,Missing customer type,Medium,Review
+Customer,208780,Customer_Type,Missing customer type,Medium,Review
+Customer,208824,Customer_Type,Missing customer type,Medium,Review
+Customer,208834,Customer_Type,Missing customer type,Medium,Review
+Customer,208842,Customer_Type,Missing customer type,Medium,Review
+Customer,208845,Customer_Type,Missing customer type,Medium,Review
+Customer,208866,Customer_Type,Missing customer type,Medium,Review
+Customer,208896,Customer_Type,Missing customer type,Medium,Review
+Customer,208901,Customer_Type,Missing customer type,Medium,Review
+Customer,208913,Customer_Type,Missing customer type,Medium,Review
+Customer,208922,Customer_Type,Missing customer type,Medium,Review
+Customer,208936,Customer_Type,Missing customer type,Medium,Review
+Customer,208953,Customer_Type,Missing customer type,Medium,Review
+Customer,208958,Customer_Type,Missing customer type,Medium,Review
+Customer,208972,Customer_Type,Missing customer type,Medium,Review
+Customer,208983,Customer_Type,Missing customer type,Medium,Review
+Customer,208997,Customer_Type,Missing customer type,Medium,Review
+Customer,209006,Customer_Type,Missing customer type,Medium,Review
+Customer,209011,Customer_Type,Missing customer type,Medium,Review
+Customer,209031,Customer_Type,Missing customer type,Medium,Review
+Customer,209057,Customer_Type,Missing customer type,Medium,Review
+Customer,209078,Customer_Type,Missing customer type,Medium,Review
+Customer,209120,Customer_Type,Missing customer type,Medium,Review
+Customer,209157,Customer_Type,Missing customer type,Medium,Review
+Customer,209169,Customer_Type,Missing customer type,Medium,Review
+Customer,209184,Customer_Type,Missing customer type,Medium,Review
+Customer,209185,Customer_Type,Missing customer type,Medium,Review
+Customer,209195,Customer_Type,Missing customer type,Medium,Review
+Customer,209216,Customer_Type,Missing customer type,Medium,Review
+Customer,209223,Customer_Type,Missing customer type,Medium,Review
+Customer,209230,Customer_Type,Missing customer type,Medium,Review
+Customer,209239,Customer_Type,Missing customer type,Medium,Review
+Customer,209246,Customer_Type,Missing customer type,Medium,Review
+Customer,209281,Customer_Type,Missing customer type,Medium,Review
+Customer,209314,Customer_Type,Missing customer type,Medium,Review
+Customer,209338,Customer_Type,Missing customer type,Medium,Review
+Customer,209441,Customer_Type,Missing customer type,Medium,Review
+Customer,209455,Customer_Type,Missing customer type,Medium,Review
+Customer,209459,Customer_Type,Missing customer type,Medium,Review
+Customer,209463,Customer_Type,Missing customer type,Medium,Review
+Customer,209483,Customer_Type,Missing customer type,Medium,Review
+Customer,209498,Customer_Type,Missing customer type,Medium,Review
+Customer,209517,Customer_Type,Missing customer type,Medium,Review
+Customer,209526,Customer_Type,Missing customer type,Medium,Review
+Customer,209543,Customer_Type,Missing customer type,Medium,Review
+Customer,209545,Customer_Type,Missing customer type,Medium,Review
+Customer,209565,Customer_Type,Missing customer type,Medium,Review
+Customer,209602,Customer_Type,Missing customer type,Medium,Review
+Customer,209610,Customer_Type,Missing customer type,Medium,Review
+Customer,209684,Customer_Type,Missing customer type,Medium,Review
+Customer,209743,Customer_Type,Missing customer type,Medium,Review
+Customer,209759,Customer_Type,Missing customer type,Medium,Review
+Customer,209768,Customer_Type,Missing customer type,Medium,Review
+Customer,209836,Customer_Type,Missing customer type,Medium,Review
+Customer,209839,Customer_Type,Missing customer type,Medium,Review
+Customer,209843,Customer_Type,Missing customer type,Medium,Review
+Customer,209857,Customer_Type,Missing customer type,Medium,Review
+Customer,209870,Customer_Type,Missing customer type,Medium,Review
+Customer,209877,Customer_Type,Missing customer type,Medium,Review
+Customer,209884,Customer_Type,Missing customer type,Medium,Review
+Customer,209893,Customer_Type,Missing customer type,Medium,Review
+Customer,209906,Customer_Type,Missing customer type,Medium,Review
+Customer,209916,Customer_Type,Missing customer type,Medium,Review
+Customer,209934,Customer_Type,Missing customer type,Medium,Review
+Customer,209936,Customer_Type,Missing customer type,Medium,Review
+Customer,209937,Customer_Type,Missing customer type,Medium,Review
+Customer,209942,Customer_Type,Missing customer type,Medium,Review
+Customer,209964,Customer_Type,Missing customer type,Medium,Review
+Customer,200014,City,Missing city,Medium,Review
+Customer,200019,City,Missing city,Medium,Review
+Customer,200030,City,Missing city,Medium,Review
+Customer,200039,City,Missing city,Medium,Review
+Customer,200071,City,Missing city,Medium,Review
+Customer,200073,City,Missing city,Medium,Review
+Customer,200075,City,Missing city,Medium,Review
+Customer,200088,City,Missing city,Medium,Review
+Customer,200090,City,Missing city,Medium,Review
+Customer,200092,City,Missing city,Medium,Review
+Customer,200101,City,Missing city,Medium,Review
+Customer,200127,City,Missing city,Medium,Review
+Customer,200129,City,Missing city,Medium,Review
+Customer,200136,City,Missing city,Medium,Review
+Customer,200214,City,Missing city,Medium,Review
+Customer,200238,City,Missing city,Medium,Review
+Customer,200242,City,Missing city,Medium,Review
+Customer,200262,City,Missing city,Medium,Review
+Customer,200267,City,Missing city,Medium,Review
+Customer,200276,City,Missing city,Medium,Review
+Customer,200340,City,Missing city,Medium,Review
+Customer,200351,City,Missing city,Medium,Review
+Customer,200456,City,Missing city,Medium,Review
+Customer,200477,City,Missing city,Medium,Review
+Customer,200537,City,Missing city,Medium,Review
+Customer,200538,City,Missing city,Medium,Review
+Customer,200559,City,Missing city,Medium,Review
+Customer,200564,City,Missing city,Medium,Review
+Customer,200613,City,Missing city,Medium,Review
+Customer,200631,City,Missing city,Medium,Review
+Customer,200633,City,Missing city,Medium,Review
+Customer,200643,City,Missing city,Medium,Review
+Customer,200672,City,Missing city,Medium,Review
+Customer,200684,City,Missing city,Medium,Review
+Customer,200696,City,Missing city,Medium,Review
+Customer,200698,City,Missing city,Medium,Review
+Customer,200703,City,Missing city,Medium,Review
+Customer,200732,City,Missing city,Medium,Review
+Customer,200771,City,Missing city,Medium,Review
+Customer,200807,City,Missing city,Medium,Review
+Customer,200832,City,Missing city,Medium,Review
+Customer,200858,City,Missing city,Medium,Review
+Customer,200865,City,Missing city,Medium,Review
+Customer,200868,City,Missing city,Medium,Review
+Customer,200879,City,Missing city,Medium,Review
+Customer,200937,City,Missing city,Medium,Review
+Customer,200967,City,Missing city,Medium,Review
+Customer,200990,City,Missing city,Medium,Review
+Customer,200996,City,Missing city,Medium,Review
+Customer,200999,City,Missing city,Medium,Review
+Customer,201016,City,Missing city,Medium,Review
+Customer,201035,City,Missing city,Medium,Review
+Customer,201041,City,Missing city,Medium,Review
+Customer,201042,City,Missing city,Medium,Review
+Customer,201110,City,Missing city,Medium,Review
+Customer,201118,City,Missing city,Medium,Review
+Customer,201151,City,Missing city,Medium,Review
+Customer,201155,City,Missing city,Medium,Review
+Customer,201160,City,Missing city,Medium,Review
+Customer,201181,City,Missing city,Medium,Review
+Customer,201213,City,Missing city,Medium,Review
+Customer,201215,City,Missing city,Medium,Review
+Customer,201244,City,Missing city,Medium,Review
+Customer,201246,City,Missing city,Medium,Review
+Customer,201251,City,Missing city,Medium,Review
+Customer,201272,City,Missing city,Medium,Review
+Customer,201413,City,Missing city,Medium,Review
+Customer,201421,City,Missing city,Medium,Review
+Customer,201430,City,Missing city,Medium,Review
+Customer,201476,City,Missing city,Medium,Review
+Customer,201491,City,Missing city,Medium,Review
+Customer,201536,City,Missing city,Medium,Review
+Customer,201552,City,Missing city,Medium,Review
+Customer,201577,City,Missing city,Medium,Review
+Customer,201587,City,Missing city,Medium,Review
+Customer,201589,City,Missing city,Medium,Review
+Customer,201593,City,Missing city,Medium,Review
+Customer,201595,City,Missing city,Medium,Review
+Customer,201605,City,Missing city,Medium,Review
+Customer,201673,City,Missing city,Medium,Review
+Customer,201683,City,Missing city,Medium,Review
+Customer,201688,City,Missing city,Medium,Review
+Customer,201758,City,Missing city,Medium,Review
+Customer,201764,City,Missing city,Medium,Review
+Customer,201776,City,Missing city,Medium,Review
+Customer,201786,City,Missing city,Medium,Review
+Customer,201798,City,Missing city,Medium,Review
+Customer,201824,City,Missing city,Medium,Review
+Customer,201841,City,Missing city,Medium,Review
+Customer,201869,City,Missing city,Medium,Review
+Customer,201870,City,Missing city,Medium,Review
+Customer,201875,City,Missing city,Medium,Review
+Customer,201887,City,Missing city,Medium,Review
+Customer,201939,City,Missing city,Medium,Review
+Customer,201942,City,Missing city,Medium,Review
+Customer,201951,City,Missing city,Medium,Review
+Customer,201958,City,Missing city,Medium,Review
+Customer,201963,City,Missing city,Medium,Review
+Customer,201967,City,Missing city,Medium,Review
+Customer,201989,City,Missing city,Medium,Review
+Customer,202011,City,Missing city,Medium,Review
+Customer,202039,City,Missing city,Medium,Review
+Customer,202044,City,Missing city,Medium,Review
+Customer,202047,City,Missing city,Medium,Review
+Customer,202105,City,Missing city,Medium,Review
+Customer,202132,City,Missing city,Medium,Review
+Customer,202137,City,Missing city,Medium,Review
+Customer,202184,City,Missing city,Medium,Review
+Customer,202208,City,Missing city,Medium,Review
+Customer,202213,City,Missing city,Medium,Review
+Customer,202241,City,Missing city,Medium,Review
+Customer,202291,City,Missing city,Medium,Review
+Customer,202339,City,Missing city,Medium,Review
+Customer,202379,City,Missing city,Medium,Review
+Customer,202399,City,Missing city,Medium,Review
+Customer,202477,City,Missing city,Medium,Review
+Customer,202480,City,Missing city,Medium,Review
+Customer,202484,City,Missing city,Medium,Review
+Customer,202494,City,Missing city,Medium,Review
+Customer,202514,City,Missing city,Medium,Review
+Customer,202526,City,Missing city,Medium,Review
+Customer,202529,City,Missing city,Medium,Review
+Customer,202547,City,Missing city,Medium,Review
+Customer,202584,City,Missing city,Medium,Review
+Customer,202606,City,Missing city,Medium,Review
+Customer,202614,City,Missing city,Medium,Review
+Customer,202617,City,Missing city,Medium,Review
+Customer,202632,City,Missing city,Medium,Review
+Customer,202656,City,Missing city,Medium,Review
+Customer,202670,City,Missing city,Medium,Review
+Customer,202684,City,Missing city,Medium,Review
+Customer,202711,City,Missing city,Medium,Review
+Customer,202720,City,Missing city,Medium,Review
+Customer,202726,City,Missing city,Medium,Review
+Customer,202727,City,Missing city,Medium,Review
+Customer,202776,City,Missing city,Medium,Review
+Customer,202787,City,Missing city,Medium,Review
+Customer,202797,City,Missing city,Medium,Review
+Customer,202818,City,Missing city,Medium,Review
+Customer,202823,City,Missing city,Medium,Review
+Customer,202834,City,Missing city,Medium,Review
+Customer,202846,City,Missing city,Medium,Review
+Customer,202849,City,Missing city,Medium,Review
+Customer,202853,City,Missing city,Medium,Review
+Customer,202860,City,Missing city,Medium,Review
+Customer,202865,City,Missing city,Medium,Review
+Customer,202878,City,Missing city,Medium,Review
+Customer,202880,City,Missing city,Medium,Review
+Customer,202917,City,Missing city,Medium,Review
+Customer,202962,City,Missing city,Medium,Review
+Customer,202989,City,Missing city,Medium,Review
+Customer,203060,City,Missing city,Medium,Review
+Customer,203095,City,Missing city,Medium,Review
+Customer,203163,City,Missing city,Medium,Review
+Customer,203177,City,Missing city,Medium,Review
+Customer,203182,City,Missing city,Medium,Review
+Customer,203194,City,Missing city,Medium,Review
+Customer,203226,City,Missing city,Medium,Review
+Customer,203245,City,Missing city,Medium,Review
+Customer,203250,City,Missing city,Medium,Review
+Customer,203269,City,Missing city,Medium,Review
+Customer,203283,City,Missing city,Medium,Review
+Customer,203318,City,Missing city,Medium,Review
+Customer,203328,City,Missing city,Medium,Review
+Customer,203335,City,Missing city,Medium,Review
+Customer,203354,City,Missing city,Medium,Review
+Customer,203358,City,Missing city,Medium,Review
+Customer,203387,City,Missing city,Medium,Review
+Customer,203420,City,Missing city,Medium,Review
+Customer,203434,City,Missing city,Medium,Review
+Customer,203462,City,Missing city,Medium,Review
+Customer,203475,City,Missing city,Medium,Review
+Customer,203479,City,Missing city,Medium,Review
+Customer,203501,City,Missing city,Medium,Review
+Customer,203505,City,Missing city,Medium,Review
+Customer,203531,City,Missing city,Medium,Review
+Customer,203564,City,Missing city,Medium,Review
+Customer,203632,City,Missing city,Medium,Review
+Customer,203637,City,Missing city,Medium,Review
+Customer,203658,City,Missing city,Medium,Review
+Customer,203671,City,Missing city,Medium,Review
+Customer,203677,City,Missing city,Medium,Review
+Customer,203685,City,Missing city,Medium,Review
+Customer,203701,City,Missing city,Medium,Review
+Customer,203709,City,Missing city,Medium,Review
+Customer,203779,City,Missing city,Medium,Review
+Customer,203819,City,Missing city,Medium,Review
+Customer,203833,City,Missing city,Medium,Review
+Customer,203883,City,Missing city,Medium,Review
+Customer,203944,City,Missing city,Medium,Review
+Customer,203953,City,Missing city,Medium,Review
+Customer,203968,City,Missing city,Medium,Review
+Customer,204025,City,Missing city,Medium,Review
+Customer,204047,City,Missing city,Medium,Review
+Customer,204081,City,Missing city,Medium,Review
+Customer,204099,City,Missing city,Medium,Review
+Customer,204131,City,Missing city,Medium,Review
+Customer,204146,City,Missing city,Medium,Review
+Customer,204188,City,Missing city,Medium,Review
+Customer,204219,City,Missing city,Medium,Review
+Customer,204256,City,Missing city,Medium,Review
+Customer,204260,City,Missing city,Medium,Review
+Customer,204264,City,Missing city,Medium,Review
+Customer,204273,City,Missing city,Medium,Review
+Customer,204294,City,Missing city,Medium,Review
+Customer,204306,City,Missing city,Medium,Review
+Customer,204322,City,Missing city,Medium,Review
+Customer,204335,City,Missing city,Medium,Review
+Customer,204345,City,Missing city,Medium,Review
+Customer,204357,City,Missing city,Medium,Review
+Customer,204381,City,Missing city,Medium,Review
+Customer,204430,City,Missing city,Medium,Review
+Customer,204446,City,Missing city,Medium,Review
+Customer,204468,City,Missing city,Medium,Review
+Customer,204516,City,Missing city,Medium,Review
+Customer,204540,City,Missing city,Medium,Review
+Customer,204544,City,Missing city,Medium,Review
+Customer,204588,City,Missing city,Medium,Review
+Customer,204599,City,Missing city,Medium,Review
+Customer,204629,City,Missing city,Medium,Review
+Customer,204651,City,Missing city,Medium,Review
+Customer,204675,City,Missing city,Medium,Review
+Customer,204682,City,Missing city,Medium,Review
+Customer,204702,City,Missing city,Medium,Review
+Customer,204727,City,Missing city,Medium,Review
+Customer,204731,City,Missing city,Medium,Review
+Customer,204767,City,Missing city,Medium,Review
+Customer,204794,City,Missing city,Medium,Review
+Customer,204808,City,Missing city,Medium,Review
+Customer,204826,City,Missing city,Medium,Review
+Customer,204828,City,Missing city,Medium,Review
+Customer,204842,City,Missing city,Medium,Review
+Customer,204850,City,Missing city,Medium,Review
+Customer,204912,City,Missing city,Medium,Review
+Customer,204928,City,Missing city,Medium,Review
+Customer,204932,City,Missing city,Medium,Review
+Customer,204934,City,Missing city,Medium,Review
+Customer,205001,City,Missing city,Medium,Review
+Customer,205048,City,Missing city,Medium,Review
+Customer,205072,City,Missing city,Medium,Review
+Customer,205089,City,Missing city,Medium,Review
+Customer,205100,City,Missing city,Medium,Review
+Customer,205102,City,Missing city,Medium,Review
+Customer,205106,City,Missing city,Medium,Review
+Customer,205108,City,Missing city,Medium,Review
+Customer,205120,City,Missing city,Medium,Review
+Customer,205129,City,Missing city,Medium,Review
+Customer,205161,City,Missing city,Medium,Review
+Customer,205204,City,Missing city,Medium,Review
+Customer,205206,City,Missing city,Medium,Review
+Customer,205223,City,Missing city,Medium,Review
+Customer,205243,City,Missing city,Medium,Review
+Customer,205265,City,Missing city,Medium,Review
+Customer,205266,City,Missing city,Medium,Review
+Customer,205282,City,Missing city,Medium,Review
+Customer,205309,City,Missing city,Medium,Review
+Customer,205311,City,Missing city,Medium,Review
+Customer,205316,City,Missing city,Medium,Review
+Customer,205333,City,Missing city,Medium,Review
+Customer,205340,City,Missing city,Medium,Review
+Customer,205406,City,Missing city,Medium,Review
+Customer,205419,City,Missing city,Medium,Review
+Customer,205437,City,Missing city,Medium,Review
+Customer,205438,City,Missing city,Medium,Review
+Customer,205451,City,Missing city,Medium,Review
+Customer,205457,City,Missing city,Medium,Review
+Customer,205465,City,Missing city,Medium,Review
+Customer,205489,City,Missing city,Medium,Review
+Customer,205627,City,Missing city,Medium,Review
+Customer,205632,City,Missing city,Medium,Review
+Customer,205636,City,Missing city,Medium,Review
+Customer,205645,City,Missing city,Medium,Review
+Customer,205681,City,Missing city,Medium,Review
+Customer,205684,City,Missing city,Medium,Review
+Customer,205716,City,Missing city,Medium,Review
+Customer,205725,City,Missing city,Medium,Review
+Customer,205734,City,Missing city,Medium,Review
+Customer,205798,City,Missing city,Medium,Review
+Customer,205816,City,Missing city,Medium,Review
+Customer,205834,City,Missing city,Medium,Review
+Customer,205838,City,Missing city,Medium,Review
+Customer,205865,City,Missing city,Medium,Review
+Customer,205885,City,Missing city,Medium,Review
+Customer,205917,City,Missing city,Medium,Review
+Customer,205938,City,Missing city,Medium,Review
+Customer,205939,City,Missing city,Medium,Review
+Customer,205944,City,Missing city,Medium,Review
+Customer,205954,City,Missing city,Medium,Review
+Customer,205958,City,Missing city,Medium,Review
+Customer,205964,City,Missing city,Medium,Review
+Customer,205974,City,Missing city,Medium,Review
+Customer,205984,City,Missing city,Medium,Review
+Customer,205999,City,Missing city,Medium,Review
+Customer,206037,City,Missing city,Medium,Review
+Customer,206050,City,Missing city,Medium,Review
+Customer,206055,City,Missing city,Medium,Review
+Customer,206086,City,Missing city,Medium,Review
+Customer,206116,City,Missing city,Medium,Review
+Customer,206123,City,Missing city,Medium,Review
+Customer,206138,City,Missing city,Medium,Review
+Customer,206175,City,Missing city,Medium,Review
+Customer,206176,City,Missing city,Medium,Review
+Customer,206184,City,Missing city,Medium,Review
+Customer,206185,City,Missing city,Medium,Review
+Customer,206201,City,Missing city,Medium,Review
+Customer,206231,City,Missing city,Medium,Review
+Customer,206237,City,Missing city,Medium,Review
+Customer,206250,City,Missing city,Medium,Review
+Customer,206254,City,Missing city,Medium,Review
+Customer,206256,City,Missing city,Medium,Review
+Customer,206269,City,Missing city,Medium,Review
+Customer,206359,City,Missing city,Medium,Review
+Customer,206378,City,Missing city,Medium,Review
+Customer,206395,City,Missing city,Medium,Review
+Customer,206412,City,Missing city,Medium,Review
+Customer,206416,City,Missing city,Medium,Review
+Customer,206419,City,Missing city,Medium,Review
+Customer,206421,City,Missing city,Medium,Review
+Customer,206431,City,Missing city,Medium,Review
+Customer,206470,City,Missing city,Medium,Review
+Customer,206492,City,Missing city,Medium,Review
+Customer,206493,City,Missing city,Medium,Review
+Customer,206539,City,Missing city,Medium,Review
+Customer,206598,City,Missing city,Medium,Review
+Customer,206609,City,Missing city,Medium,Review
+Customer,206643,City,Missing city,Medium,Review
+Customer,206652,City,Missing city,Medium,Review
+Customer,206662,City,Missing city,Medium,Review
+Customer,206678,City,Missing city,Medium,Review
+Customer,206685,City,Missing city,Medium,Review
+Customer,206693,City,Missing city,Medium,Review
+Customer,206705,City,Missing city,Medium,Review
+Customer,206731,City,Missing city,Medium,Review
+Customer,206739,City,Missing city,Medium,Review
+Customer,206790,City,Missing city,Medium,Review
+Customer,206851,City,Missing city,Medium,Review
+Customer,206901,City,Missing city,Medium,Review
+Customer,206908,City,Missing city,Medium,Review
+Customer,206915,City,Missing city,Medium,Review
+Customer,206986,City,Missing city,Medium,Review
+Customer,206988,City,Missing city,Medium,Review
+Customer,207006,City,Missing city,Medium,Review
+Customer,207043,City,Missing city,Medium,Review
+Customer,207050,City,Missing city,Medium,Review
+Customer,207079,City,Missing city,Medium,Review
+Customer,207081,City,Missing city,Medium,Review
+Customer,207083,City,Missing city,Medium,Review
+Customer,207102,City,Missing city,Medium,Review
+Customer,207120,City,Missing city,Medium,Review
+Customer,207177,City,Missing city,Medium,Review
+Customer,207211,City,Missing city,Medium,Review
+Customer,207225,City,Missing city,Medium,Review
+Customer,207233,City,Missing city,Medium,Review
+Customer,207256,City,Missing city,Medium,Review
+Customer,207258,City,Missing city,Medium,Review
+Customer,207265,City,Missing city,Medium,Review
+Customer,207281,City,Missing city,Medium,Review
+Customer,207282,City,Missing city,Medium,Review
+Customer,207318,City,Missing city,Medium,Review
+Customer,207421,City,Missing city,Medium,Review
+Customer,207423,City,Missing city,Medium,Review
+Customer,207430,City,Missing city,Medium,Review
+Customer,207465,City,Missing city,Medium,Review
+Customer,207482,City,Missing city,Medium,Review
+Customer,207490,City,Missing city,Medium,Review
+Customer,207494,City,Missing city,Medium,Review
+Customer,207523,City,Missing city,Medium,Review
+Customer,207548,City,Missing city,Medium,Review
+Customer,207571,City,Missing city,Medium,Review
+Customer,207593,City,Missing city,Medium,Review
+Customer,207596,City,Missing city,Medium,Review
+Customer,207637,City,Missing city,Medium,Review
+Customer,207674,City,Missing city,Medium,Review
+Customer,207713,City,Missing city,Medium,Review
+Customer,207719,City,Missing city,Medium,Review
+Customer,207725,City,Missing city,Medium,Review
+Customer,207726,City,Missing city,Medium,Review
+Customer,207738,City,Missing city,Medium,Review
+Customer,207747,City,Missing city,Medium,Review
+Customer,207761,City,Missing city,Medium,Review
+Customer,207773,City,Missing city,Medium,Review
+Customer,207780,City,Missing city,Medium,Review
+Customer,207802,City,Missing city,Medium,Review
+Customer,207808,City,Missing city,Medium,Review
+Customer,207845,City,Missing city,Medium,Review
+Customer,207847,City,Missing city,Medium,Review
+Customer,207942,City,Missing city,Medium,Review
+Customer,207975,City,Missing city,Medium,Review
+Customer,208022,City,Missing city,Medium,Review
+Customer,208086,City,Missing city,Medium,Review
+Customer,208143,City,Missing city,Medium,Review
+Customer,208181,City,Missing city,Medium,Review
+Customer,208182,City,Missing city,Medium,Review
+Customer,208183,City,Missing city,Medium,Review
+Customer,208195,City,Missing city,Medium,Review
+Customer,208217,City,Missing city,Medium,Review
+Customer,208253,City,Missing city,Medium,Review
+Customer,208261,City,Missing city,Medium,Review
+Customer,208280,City,Missing city,Medium,Review
+Customer,208283,City,Missing city,Medium,Review
+Customer,208286,City,Missing city,Medium,Review
+Customer,208300,City,Missing city,Medium,Review
+Customer,208321,City,Missing city,Medium,Review
+Customer,208343,City,Missing city,Medium,Review
+Customer,208350,City,Missing city,Medium,Review
+Customer,208355,City,Missing city,Medium,Review
+Customer,208376,City,Missing city,Medium,Review
+Customer,208387,City,Missing city,Medium,Review
+Customer,208435,City,Missing city,Medium,Review
+Customer,208444,City,Missing city,Medium,Review
+Customer,208468,City,Missing city,Medium,Review
+Customer,208476,City,Missing city,Medium,Review
+Customer,208494,City,Missing city,Medium,Review
+Customer,208502,City,Missing city,Medium,Review
+Customer,208526,City,Missing city,Medium,Review
+Customer,208544,City,Missing city,Medium,Review
+Customer,208554,City,Missing city,Medium,Review
+Customer,208556,City,Missing city,Medium,Review
+Customer,208589,City,Missing city,Medium,Review
+Customer,208595,City,Missing city,Medium,Review
+Customer,208601,City,Missing city,Medium,Review
+Customer,208620,City,Missing city,Medium,Review
+Customer,208621,City,Missing city,Medium,Review
+Customer,208642,City,Missing city,Medium,Review
+Customer,208647,City,Missing city,Medium,Review
+Customer,208660,City,Missing city,Medium,Review
+Customer,208683,City,Missing city,Medium,Review
+Customer,208684,City,Missing city,Medium,Review
+Customer,208712,City,Missing city,Medium,Review
+Customer,208745,City,Missing city,Medium,Review
+Customer,208784,City,Missing city,Medium,Review
+Customer,208799,City,Missing city,Medium,Review
+Customer,208800,City,Missing city,Medium,Review
+Customer,208821,City,Missing city,Medium,Review
+Customer,208833,City,Missing city,Medium,Review
+Customer,208864,City,Missing city,Medium,Review
+Customer,208892,City,Missing city,Medium,Review
+Customer,208899,City,Missing city,Medium,Review
+Customer,208918,City,Missing city,Medium,Review
+Customer,208953,City,Missing city,Medium,Review
+Customer,208954,City,Missing city,Medium,Review
+Customer,208969,City,Missing city,Medium,Review
+Customer,208973,City,Missing city,Medium,Review
+Customer,208975,City,Missing city,Medium,Review
+Customer,209005,City,Missing city,Medium,Review
+Customer,209032,City,Missing city,Medium,Review
+Customer,209054,City,Missing city,Medium,Review
+Customer,209125,City,Missing city,Medium,Review
+Customer,209136,City,Missing city,Medium,Review
+Customer,209146,City,Missing city,Medium,Review
+Customer,209158,City,Missing city,Medium,Review
+Customer,209165,City,Missing city,Medium,Review
+Customer,209170,City,Missing city,Medium,Review
+Customer,209176,City,Missing city,Medium,Review
+Customer,209259,City,Missing city,Medium,Review
+Customer,209305,City,Missing city,Medium,Review
+Customer,209311,City,Missing city,Medium,Review
+Customer,209324,City,Missing city,Medium,Review
+Customer,209354,City,Missing city,Medium,Review
+Customer,209365,City,Missing city,Medium,Review
+Customer,209366,City,Missing city,Medium,Review
+Customer,209378,City,Missing city,Medium,Review
+Customer,209379,City,Missing city,Medium,Review
+Customer,209386,City,Missing city,Medium,Review
+Customer,209393,City,Missing city,Medium,Review
+Customer,209421,City,Missing city,Medium,Review
+Customer,209424,City,Missing city,Medium,Review
+Customer,209438,City,Missing city,Medium,Review
+Customer,209455,City,Missing city,Medium,Review
+Customer,209470,City,Missing city,Medium,Review
+Customer,209480,City,Missing city,Medium,Review
+Customer,209516,City,Missing city,Medium,Review
+Customer,209576,City,Missing city,Medium,Review
+Customer,209612,City,Missing city,Medium,Review
+Customer,209614,City,Missing city,Medium,Review
+Customer,209642,City,Missing city,Medium,Review
+Customer,209644,City,Missing city,Medium,Review
+Customer,209646,City,Missing city,Medium,Review
+Customer,209655,City,Missing city,Medium,Review
+Customer,209706,City,Missing city,Medium,Review
+Customer,209710,City,Missing city,Medium,Review
+Customer,209728,City,Missing city,Medium,Review
+Customer,209742,City,Missing city,Medium,Review
+Customer,209763,City,Missing city,Medium,Review
+Customer,209770,City,Missing city,Medium,Review
+Customer,209792,City,Missing city,Medium,Review
+Customer,209799,City,Missing city,Medium,Review
+Customer,209809,City,Missing city,Medium,Review
+Customer,209814,City,Missing city,Medium,Review
+Customer,209821,City,Missing city,Medium,Review
+Customer,209860,City,Missing city,Medium,Review
+Customer,209864,City,Missing city,Medium,Review
+Customer,209867,City,Missing city,Medium,Review
+Customer,209878,City,Missing city,Medium,Review
+Customer,209882,City,Missing city,Medium,Review
+Customer,209894,City,Missing city,Medium,Review
+Customer,209916,City,Missing city,Medium,Review
+Customer,209940,City,Missing city,Medium,Review
+Customer,209951,City,Missing city,Medium,Review
+Customer,209980,City,Missing city,Medium,Review

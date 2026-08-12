@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Missing_Cells,Duplicate_Rows
+Branch,1000,6,50,0
+Customer,10000,7,1500,0
+Transaction,10000,8,0,0

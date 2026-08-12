@@ -1,0 +1,3 @@
+Relationship,Orphan_Records,Status
+Customer -> Branch,0,PASS
+Transaction -> Customer,0,PASS
